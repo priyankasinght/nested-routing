@@ -1,0 +1,31 @@
+.nav {
+    background-color: black;
+    color: white;
+    padding: 20px;
+    display: flex;
+}
+
+#title {
+    width: 40%;
+    text-align: center;
+}
+
+#menu {
+    width: 60%;
+    text-align: center;
+}
+
+a {
+    color: white;
+    margin-right: 50px;
+    text-decoration: none;
+}
+
+.logout-btn {
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 8px 16px;
+    margin-left: 20px;
+    cursor: pointer;
+}

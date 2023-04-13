@@ -1,0 +1,8 @@
+.heading {
+    text-align: center;
+    color: green;
+}
+
+.container {
+    display: flex;
+}

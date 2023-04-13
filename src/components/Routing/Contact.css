@@ -1,0 +1,13 @@
+.contact-container {
+    padding: 30px;
+  }
+  
+  .contact-title {
+    color: rgb(196, 163, 17);
+  }
+  
+  .contact-text {
+    line-height: 1.5;
+    text-align: justify;
+  }
+  
